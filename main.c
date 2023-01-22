@@ -11,6 +11,6 @@ int main(void){
         sum = sum + r;
         x = x / 10;
 
-    }while(r != 0);
+    }while(x != 0);
     printf(" Sum :%d",sum);
 }
